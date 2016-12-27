@@ -1,4 +1,4 @@
-# enhancedorderdeliverydate
+# Enhanced Order Delivery Date
 Magento Extension for Enhanced Order Delivery Date
 
 Enhanced Order Delivery Date allows Magento Online Store customers to set the delivery for their orders. Customers can also add their delivery comments while placing an order. This module is very useful to increase shopping experience of customers on the store.
